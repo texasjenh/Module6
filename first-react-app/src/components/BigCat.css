@@ -1,0 +1,22 @@
+.BigCats ul {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    color: #16262E;
+}
+
+.BigCats li {
+    padding: 1em;
+    width: calc(33% - 4em);
+    border: 1px solid #DBC20F;
+}
+
+.BigCats h2 {
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 48px;
+}
+
+.BigCats img {
+    max-width: 100%;
+}

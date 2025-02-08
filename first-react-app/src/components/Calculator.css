@@ -1,0 +1,21 @@
+.Calculator {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    width: 150px;
+    flex: 1 1 160px;
+    border: 8px solid #273655;
+    margin: 20px, 25px;
+    padding: 25px;
+    text-align: left;
+    
+}
+
+.button {
+    background-color: #445E93;
+    border-color: #273655;
+    color: #ffffff;
+    margin: 2em;
+}
+
+
